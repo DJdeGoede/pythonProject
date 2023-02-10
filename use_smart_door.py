@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 
-# * Default comment
-# TODO: refactor
-# ! Solid
-# ? Information
-# // This is not needed anymore 
+#? This will import and call the methods from the smart_door.py module
 
 from smart_door import open, close
 open()

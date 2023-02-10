@@ -4,4 +4,4 @@ def open():
     print("Ahhhhhhhh.")
 
 def close():
-    print("Thank you for making a simple door very happy.")
+    print("Thank you so much for making a simple door very happy.")
