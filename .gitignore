@@ -135,3 +135,4 @@ dmypy.json
 .vscode/settings.json
 
 __pycache__/smart_door.cpython-311.pyc
+.gitignore
